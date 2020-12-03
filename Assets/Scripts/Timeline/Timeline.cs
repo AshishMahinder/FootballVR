@@ -34,6 +34,10 @@ namespace VRFootball
                 obj.SetActive(true);
                 objects[i] = obj.transform;
                 animators[i] = obj.GetComponentInChildren<IAnimator>();
+                if(frames[0].objects[i].follow != null)
+                {
+                    frames[0].objects[i].follow.target = obj.transform;
+                }
             }
         }
 

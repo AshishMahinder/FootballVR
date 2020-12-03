@@ -1,0 +1,10 @@
+{
+"contrast":0.03,
+"blur":0.0,
+"visiblePlayers1":[1,2,3,4,5,6,7,8,9,10,11],
+"visiblePlayers2":[1,2,3,4,5,6,7,8,9,10,11],
+"stress":false,
+"target":{"x":0.0,"y":0.0,"z":0.0},
+"animationSpeed":1.0,
+"oneEye":false
+}

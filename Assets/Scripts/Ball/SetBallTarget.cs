@@ -26,7 +26,7 @@ namespace VRFootball
         void SetTarget()
         {
             if (Ball.GetInstance() != null)
-                t.transform.position = Ball.GetInstance().transform.position;
+                t.transform.position = Ball.GetInstance().transform.position + 2.8f*Vector3.up;
             look.target = t;
         }
 

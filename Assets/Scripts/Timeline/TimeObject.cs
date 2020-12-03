@@ -7,6 +7,6 @@ namespace VRFootball
 
     public class TimeObject : MonoBehaviour
     {
-        
+        public Follow follow;
     }
 }

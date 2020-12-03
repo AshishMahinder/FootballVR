@@ -159,7 +159,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &11899
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -1512,7 +1511,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &63446490
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -1619,7 +1617,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &66205075
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -1726,7 +1723,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &66472761
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -1867,7 +1863,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &77572401
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -2298,7 +2293,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &99110840
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -2495,7 +2489,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!135 &99346528
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -2602,7 +2595,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &102758999
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -2807,7 +2799,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &107205424
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -3123,7 +3114,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &117489538
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -3676,7 +3666,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &137570973
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -3866,7 +3855,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &163759807
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -4186,79 +4174,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 98655b9afb98559448d2ac94664997b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  X:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0.0006713867
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 0.6743364
-      value: 0.21380274
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 0.9996488
-      value: 0.0007774234
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0
-      outWeight: 0
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  Y:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 0.5529175
-      value: 0.99607086
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 0.99626404
-      value: -0.005893886
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0
-      outWeight: 0
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  Z:
-    serializedVersion: 2
-    m_Curve: []
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  max: {x: 0, y: 0, z: 0}
 --- !u!114 &185414397
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4318,7 +4233,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &185612482
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -4426,7 +4340,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &185753872
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -4585,7 +4498,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &192000521
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -5097,7 +5009,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &222237234
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -5623,7 +5534,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &244892467
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -5731,7 +5641,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &247745597
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -5889,7 +5798,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &254572853
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -6230,7 +6138,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &278889349
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -6556,79 +6463,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 98655b9afb98559448d2ac94664997b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  X:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0.0006713867
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 0.6743364
-      value: 0.21380274
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 0.9996488
-      value: 0.0007774234
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0
-      outWeight: 0
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  Y:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 0.5529175
-      value: 0.99607086
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 0.99626404
-      value: -0.005893886
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0
-      outWeight: 0
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  Z:
-    serializedVersion: 2
-    m_Curve: []
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  max: {x: 0, y: 0, z: 0}
 --- !u!114 &297911766
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7099,7 +6933,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &309313699
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -7648,7 +7481,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &343602324
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -7802,7 +7634,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &347437323
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -8314,7 +8145,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &371804261
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -9910,7 +9740,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &448601878
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -10407,7 +10236,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &462105438
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -11158,7 +10986,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &501075722
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -11605,7 +11432,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &515323878
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -11804,7 +11630,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &518019650
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -12568,7 +12393,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!135 &553785075
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -12719,7 +12543,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &562113256
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -12986,7 +12809,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &583045710
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -13737,7 +13559,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &637464240
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -13952,7 +13773,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &638338655
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -14169,7 +13989,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &648939879
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -14516,7 +14335,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &656339742
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -15044,7 +14862,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &688208068
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -15361,7 +15178,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &692049267
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -15543,7 +15359,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &699134197
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -15899,7 +15714,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &715576784
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -16155,7 +15969,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &718612974
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -16368,7 +16181,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!135 &727459114
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -17006,7 +16818,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &759158849
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -17281,7 +17092,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &770204725
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -17729,7 +17539,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &777794940
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -18049,7 +17858,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &787078857
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -18583,7 +18391,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &794694354
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -18994,7 +18801,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &818653294
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -19271,7 +19077,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &836889220
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -19537,7 +19342,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &839641117
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -19841,7 +19645,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &861094767
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -20158,7 +19961,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &869816974
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -20357,7 +20159,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &873248402
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -21085,7 +20886,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &885592008
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -21194,7 +20994,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &886577520
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -21318,7 +21117,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &892814190
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -21591,7 +21389,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &910053234
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -22068,7 +21865,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &936281798
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -22318,7 +22114,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &948528835
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -22683,7 +22478,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &963480157
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -22791,7 +22585,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &963810021
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -23305,7 +23098,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &985042376
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -23795,7 +23587,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1004093973
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -24141,7 +23932,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1016612970
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -24248,7 +24038,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1022559727
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -24538,7 +24327,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1028392263
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -24843,7 +24631,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1033717646
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -24951,7 +24738,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1036215545
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -25679,7 +25465,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1051751116
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -26441,7 +26226,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1080886677
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -26566,7 +26350,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1083804903
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -26820,7 +26603,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1100406056
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -26975,7 +26757,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1107882941
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -27083,7 +26864,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1108061026
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -27203,7 +26983,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1111997081
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -27547,7 +27326,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1136652437
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -27655,7 +27433,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1143658118
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -27761,7 +27538,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!135 &1145992003
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -28266,7 +28042,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1167108740
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -28373,7 +28148,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1167757430
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -28772,7 +28546,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1185190268
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -28879,7 +28652,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1191069469
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -28986,7 +28758,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1192494744
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -29170,7 +28941,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1200489308
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -29380,7 +29150,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1212224235
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -29585,7 +29354,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1228093629
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -29645,6 +29413,58 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1228093626}
   m_Mesh: {fileID: 10208, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1229981814
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1229981816}
+  - component: {fileID: 1229981815}
+  m_Layer: 0
+  m_Name: IniReader
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1229981815
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1229981814}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2723ded1d1a7ef24aa279eb2225a1f7f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  parameters:
+    contrast: 0
+    blur: 0
+    visiblePlayers1: 
+    visiblePlayers2: 
+    stress: 0
+    target: {x: 0, y: 0, z: 0}
+    animationSpeed: 0
+    oneEye: 0
+--- !u!4 &1229981816
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1229981814}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 5.6615443, y: 1.7193451, z: 5.3758373}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1240977032 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1363303896833192, guid: f841d4f0b08d1cb4a929abb96193ae4e,
@@ -29739,7 +29559,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1241968189
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -30638,7 +30457,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1262824929
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -30802,7 +30620,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1272622661
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -30910,7 +30727,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1273589838
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -31017,7 +30833,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1273851859
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -31181,7 +30996,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1278198502
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -31345,7 +31159,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1282749596
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -31686,7 +31499,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1301177842
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -32258,7 +32070,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1318481457
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -32417,21 +32228,6 @@ MonoBehaviour:
   shaderReduce: {fileID: 4800000, guid: 57b33a14b6d5347c5a85c36f6cb3b280, type: 3}
   shaderAdapt: {fileID: 4800000, guid: 257bc83cbeb544540bd0e558aa9b1383, type: 3}
   shaderApply: {fileID: 4800000, guid: f4901f25d4e1542589348bbb89563d8e, type: 3}
---- !u!114 &1321408408
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1321408405}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 34382083ad114a07d000fbfb8d76c639, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  iterations: 0
-  blurSpread: 0.115
-  blurShader: {fileID: 4800000, guid: 57e6deea7c2924e22a5138e2b70bb4dc, type: 3}
 --- !u!114 &1321408410
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32487,6 +32283,23 @@ MonoBehaviour:
   strengthX: 0.129
   strengthY: 0.144
   fishEyeShader: {fileID: 4800000, guid: 874ceab4425f64bccb1d14032f4452b1, type: 3}
+--- !u!114 &1321408415
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1321408405}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fc6bde01469c7b4badee5362f191d96, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  downsample: 1
+  blurSize: 0.5
+  blurIterations: 1
+  blurType: 0
+  blurShader: {fileID: 4800000, guid: f9d5fa183cd6b45eeb1491f74863cd91, type: 3}
 --- !u!1 &1327625194
 GameObject:
   m_ObjectHideFlags: 0
@@ -32588,7 +32401,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1329772127
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -32837,7 +32649,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1332895777
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -33552,7 +33363,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1369226158
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -33922,7 +33732,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1386875236
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -34138,7 +33947,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1389502131
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -34428,7 +34236,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1399041728
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -34535,7 +34342,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1402191205
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -34750,7 +34556,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!135 &1406036694
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -34857,7 +34662,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1409335980
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -35048,7 +34852,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1411858562
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -35802,7 +35605,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1442914944
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -35914,7 +35716,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!135 &1445928833
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -36111,7 +35912,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1448307393
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -36521,7 +36321,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1458240066
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -36905,7 +36704,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1470140398
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -37150,7 +36948,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1478600281
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -37452,7 +37249,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1487512849
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -38034,7 +37830,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1510604806
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -38141,7 +37936,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1511870563
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -38374,7 +38168,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1517712346
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -38663,7 +38456,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1524033672
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -39057,7 +38849,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1532431207
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -39216,7 +39007,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1537857388
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -39340,7 +39130,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1538735714
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -39447,7 +39236,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1543505369
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -39831,7 +39619,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1561245022
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -40250,7 +40037,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1576554240
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -40674,7 +40460,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1590695274
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -41235,7 +41020,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1605304374
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -41572,7 +41356,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1608721843
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -42142,7 +41925,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1632924253
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -42367,7 +42149,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1652392928
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -42522,7 +42303,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1655093575
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -42798,7 +42578,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1664059187
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -42920,7 +42699,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!135 &1665110354
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -43251,7 +43029,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1670230913
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -43743,7 +43520,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1692320785
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -43851,7 +43627,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1694826773
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -44639,7 +44414,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1736107940
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -45002,7 +44776,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1758615290
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -45602,7 +45375,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1782194113
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -45800,7 +45572,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1785598959
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -46629,7 +46400,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1848061064
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -47017,7 +46787,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1859812258
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -47284,7 +47053,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1867994474
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -47398,7 +47166,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1871138269
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -47579,7 +47346,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1880992987
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -47872,7 +47638,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1890942644
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -48921,79 +48686,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 98655b9afb98559448d2ac94664997b0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  X:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0.0006713867
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 0.6743364
-      value: 0.21380274
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 0.9996488
-      value: 0.0007774234
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0
-      outWeight: 0
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  Y:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 0.5529175
-      value: 0.99607086
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 0.99626404
-      value: -0.005893886
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0
-      outWeight: 0
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  Z:
-    serializedVersion: 2
-    m_Curve: []
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  max: {x: 0, y: 0, z: 0}
 --- !u!1 &1932065500
 GameObject:
   m_ObjectHideFlags: 0
@@ -49059,7 +48751,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1932065504
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -49166,7 +48857,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1933237147
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -49968,7 +49658,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1980073405
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -50247,7 +49936,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &1983213563
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -50804,7 +50492,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &2000012134
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -50924,7 +50611,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &2000714688
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -51129,7 +50815,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &2008875556
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -51294,7 +50979,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &2023641689
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -51748,7 +51432,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &2039706839
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -52085,7 +51768,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &2053462579
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -52193,7 +51875,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &2053506901
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -52830,7 +52511,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &2086523325
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -53198,7 +52878,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &2105175237
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -53572,7 +53251,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &2112724907
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -53894,7 +53572,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 054e06c4cae52b342bba7536bb0c3b0e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballCrossing: {fileID: 0}
 --- !u!136 &2125526387
 CapsuleCollider:
   m_ObjectHideFlags: 0
